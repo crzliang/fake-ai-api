@@ -1,8 +1,8 @@
 {
   "env": {
     "ANTHROPIC_BASE_URL": "http://localhost:3000",
-    "ANTHROPIC_AUTH_TOKEN": "sk-ZIK8Hygx0BLBOZmt7ZGOY4OcvqkttdIPvLEco7yHYtnKgDcu",
-    "ANTHROPIC_API_KEY": "sk-ZIK8Hygx0BLBOZmt7ZGOY4OcvqkttdIPvLEco7yHYtnKgDcu",
+    "ANTHROPIC_AUTH_TOKEN": "sk-AeXsYXW4BW48ZxkE2OA5WBy429WkBJpFycqlNEUhxGgZjpp6",
+    "ANTHROPIC_API_KEY": "sk-AeXsYXW4BW48ZxkE2OA5WBy429WkBJpFycqlNEUhxGgZjpp6",
     "ANTHROPIC_MODEL": "claude-sonnet-4.6",
     "ANTHROPIC_SMALL_FAST_MODEL": "claude-sonnet-4.6",
     "ANTHROPIC_DEFAULT_SONNET_MODEL": "claude-sonnet-4.6",
